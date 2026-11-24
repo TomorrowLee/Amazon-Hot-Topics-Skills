@@ -1,0 +1,4 @@
+interface:
+  display_name: "跨境电商-last 30days Skills"
+  short_description: "从近三十天海外讨论定位未满足需求，匹配商品并核验跨境销售可行性"
+  default_prompt: "使用 $crossborder-ecommerce-last30days 扫描目标市场最近30天的海外讨论，找出可验证的买家痛点，匹配商品并说明是否值得打样。"
